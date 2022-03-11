@@ -1,4 +1,4 @@
-# pineglade-modal [![npm version](https://img.shields.io/npm/v/pineglade-pp.svg)](https://www.npmjs.com/package/pineglade-pp)
+# pineglade-modal [![npm version](https://img.shields.io/npm/v/pineglade-modal.svg)](https://www.npmjs.com/package/pineglade-modal)
 
 Модальное окно с произвольной разметкой и стилизацией.
 
